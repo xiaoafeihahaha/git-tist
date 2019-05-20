@@ -11,5 +11,8 @@ public class HelloGit {
         System.out.println("hello git");
 
     }
-
+        public void show(){
+        int i=4;
+        int b=i+1;
+        }
 }
